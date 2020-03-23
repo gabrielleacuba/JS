@@ -41,3 +41,5 @@ console.log(testeString.replace("G","F")) //Substitui G por F
 console.log('Gabrielle, Julia, Marluce'.split(","))//Converte em um array
 
 
+//* Boolean
+
