@@ -43,3 +43,6 @@ console.log('Gabrielle, Julia, Marluce'.split(","))//Converte em um array
 
 //* Boolean
 
+console.log(!!3) //verdadeiro
+console.log(!3) //falso
+
